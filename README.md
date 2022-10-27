@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Down for whatever!
 - 🤔 I’m looking for help with ... UIKit arrgh
 - 💬 Ask me about ... LAMP
-- 📫 How to reach me: ... @Rade0nfighter
+- 📫 How to reach me: ... @Rade0nFighter
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Siamese cats are white with black ears and socks, but when cold turn black all over!
