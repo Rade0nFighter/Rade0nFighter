@@ -24,13 +24,6 @@ Currently, I'm diving deep into LLM Resource Augmentation projects. With a diver
 <details open>
 <summary><strong>Artificial Intelligence</strong></summary><br>
 <p>
-    <!-- <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white">-->
-    <!-- <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white"> -->
-    <!-- <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"> -->
-    <!-- <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=flat-square&logo=HuggingFace&logoColor=black"> -->
-    <!-- <img src="https://img.shields.io/badge/langchain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"> -->
-    <!-- <img src="https://img.shields.io/badge/ollama-000000?style=flat-square&logo=ollama&logoColor=white"> -->
-    <!-- <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> -->
     <img src="https://img.shields.io/badge/ChatGPT-rgb(28, 17, 69)?style=flat-square&logo=openai&logoColor=white">
     <img src="https://img.shields.io/badge/Claude-rgb(28, 17, 69)?style=flat-square&logo=claude&logoColor=white">
     <img src="https://img.shields.io/badge/Google%20Gemini-rgb(28, 17, 69)?style=flat-square&logo=googlegemini&logoColor=white">
@@ -43,11 +36,6 @@ Currently, I'm diving deep into LLM Resource Augmentation projects. With a diver
 <details>
 <summary><strong>Cloud</strong></summary><br>
 <p>
-    <!-- <img src="https://img.shields.io/badge/Amazon_Web_Services-rgb(28, 17, 69)?style=flat-square&logo=amazonwebservices&logoColor=white">
-    <img src="https://img.shields.io/badge/Cloudflare-rgb(28, 17, 69)?style=flat-square&logo=Cloudflare&logoColor=white">
-    <img src="https://img.shields.io/badge/Jenkins-rgb(28, 17, 69)?style=flat-square&logo=jenkins&logoColor=white">
-    <img src="https://img.shields.io/badge/microsoft%20azure-rgb(28, 17, 69)?style=flat-square&logo=microsoft-azure&logoColor=white">
-    <img src="https://img.shields.io/badge/Terraform-rgb(28, 17, 69)?style=flat-square&logo=terraform&logoColor=white"> -->
     <img src="https://img.shields.io/badge/Amazon_Web_Services-rgb(28, 17, 69)?style=flat-square&logo=amazonwebservices&logoColor=white">
     <img src="https://img.shields.io/badge/Cloudflare-rgb(28, 17, 69)?style=flat-square&logo=Cloudflare&logoColor=white">
     <img src="https://img.shields.io/badge/Jenkins-rgb(28, 17, 69)?style=flat-square&logo=jenkins&logoColor=white">
@@ -59,13 +47,6 @@ Currently, I'm diving deep into LLM Resource Augmentation projects. With a diver
 <details>
 <summary><strong>Databases</strong></summary><br>
 <p>
-    <!-- <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache%20cassandra&logoColor=white">
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white">
-    <img src="https://img.shields.io/badge/Sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white"> -->
     <img src="https://img.shields.io/badge/Cassandra-rgb(28, 17, 69)?style=flat-square&logo=apache%20cassandra&logoColor=white">
     <img src="https://img.shields.io/badge/MariaDB-rgb(28, 17, 69)?style=flat-square&logo=mariadb&logoColor=white">
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-rgb(28, 17, 69)?style=flat-square&logo=microsoft%20sql%20server&logoColor=white">
@@ -79,14 +60,6 @@ Currently, I'm diving deep into LLM Resource Augmentation projects. With a diver
 <details>
 <summary><strong>Languages</strong></summary><br>
 <p>
-    <!-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue">
-    <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white">
-    <img src="https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=#E57324">
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"> -->
     <img src="https://img.shields.io/badge/CSS3-rgb(28, 17, 69)?style=flat-square&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-rgb(28, 17, 69)?style=flat-square&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-rgb(28, 17, 69)?style=flat-square&logo=javascript&logoColor=white">
@@ -101,8 +74,6 @@ Currently, I'm diving deep into LLM Resource Augmentation projects. With a diver
 <details>
 <summary><strong>Mobile Frameworks</strong></summary><br>
 <p>
-    <!-- <img src="https://img.shields.io/badge/Cordova-35434F?style=flat-square&logo=apache-cordova&logoColor=E8E8E8">
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"> -->
     <img src="https://img.shields.io/badge/Cordova-rgb(28, 17, 69)?style=flat-square&logo=apache-cordova&logoColor=E8E8E8">
     <img src="https://img.shields.io/badge/React_Native-rgb(28, 17, 69)?style=flat-square&logo=react&logoColor=61DAFB">
 </p>
@@ -111,12 +82,6 @@ Currently, I'm diving deep into LLM Resource Augmentation projects. With a diver
 <details>
 <summary><strong>Operating Systems</strong></summary><br>
 <p>
-    <!-- <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=flat-square&logo=alpine-linux&logoColor=white">
-    <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white">
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white">
-    <img src="https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"> -->
     <img src="https://img.shields.io/badge/Alpine_Linux-rgb(28, 17, 69)?style=flat-square&logo=alpine-linux&logoColor=white">
     <img src="https://img.shields.io/badge/Debian-rgb(28, 17, 69)?style=flat-square&logo=debian&logoColor=white">
     <img src="https://img.shields.io/badge/Kali_Linux-rgb(28, 17, 69)?style=flat-square&logo=kali-linux&logoColor=white">
@@ -129,8 +94,6 @@ Currently, I'm diving deep into LLM Resource Augmentation projects. With a diver
 <details>
 <summary><strong>Servers</strong></summary><br>
 <p>
-    <!-- <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white">
-    <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"> -->
     <img src="https://img.shields.io/badge/Apache-rgb(28, 17, 69)?style=flat-square&logo=Apache&logoColor=white">
     <img src="https://img.shields.io/badge/Nginx-rgb(28, 17, 69)?style=flat-square&logo=nginx&logoColor=white">
 </p>
@@ -139,13 +102,6 @@ Currently, I'm diving deep into LLM Resource Augmentation projects. With a diver
 <details>
 <summary><strong>Tooling</strong></summary><br>
 <p>
-    <!-- <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Insomnia-5849be?style=flat-square&logo=Insomnia&logoColor=white">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white">
-    <img src="https://img.shields.io/badge/Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white">
-    <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white">
-    <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white">
-    <img src="https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=Zsh&logoColor=white"> -->
     <img src="https://img.shields.io/badge/Docker-rgb(28, 17, 69)?style=flat-square&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Insomnia-rgb(28, 17, 69)?style=flat-square&logo=Insomnia&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-rgb(28, 17, 69)?style=flat-square&logo=Postman&logoColor=white">
@@ -158,7 +114,7 @@ Currently, I'm diving deep into LLM Resource Augmentation projects. With a diver
 
 <h2><img src="./Blocks.gif" width="28" align="top"> Favourite Projects</h2>
 
-A shout out to some projects which aim to make the world a better place for their users.
+A shout out to some projects which aim to make the world a better place for their users. https://github.com/chrislgarry/Apollo-11
 <table>
   <tr>
     <td align="center" width="100" height="200">
