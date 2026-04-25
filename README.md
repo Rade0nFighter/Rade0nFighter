@@ -2,18 +2,11 @@
 <!-- <p style="text-align:centre"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7C60D1&center=true&vCenter=true&multiline=false&repeat=true&width=360&lines=LLM+and+ML+applications;Enterprise+User+Experience;Infrastructure+hardening" alt="Typing SVG" />
 </p> -->
 
-# Rade0nFighter
-
-
 ## About Me 
 
-Hi there! I'm a passionate technologist specializing in Artificial Intelligence and Cyber Security. My work focuses on building LLM and ML applications, enhancing enterprise user experiences, and hardening infrastructure to keep systems secure and efficient.
+Hi there! I'm a passionate technologist specializing in Artificial Intelligence and Cyber Security. My work focuses on AI-powered user experiences, enterprise web applications, and hardening infrastructure to keep systems secure and efficient.
 
-Currently, I'm diving deep into LLM Resource Augmentation projects. With a diverse tech stack spanning AI tools like ChatGPT, Claude, and PyTorch, cloud platforms from AWS to Azure, and programming languages including Python, TypeScript, and Rust, I enjoy tackling complex challenges across the full stack.
-
-Feel free to reach out at @Rade0nFighter if you'd like to collaborate or chat about AI, security, or anything tech-related.
-
-
+Currently, I'm diving deep into LLM Resource Augmentation projects. With a diverse tech stack spanning AI tools like ChatGPT, Claude, and PyTorch, cloud platforms from AWS to Azure, and programming languages including Python, Rust, and PHP, I enjoy architecting applications that re-define user experiences.
 
 
 ## Current Tech
@@ -26,35 +19,30 @@ Feel free to reach out at @Rade0nFighter if you'd like to collaborate or chat ab
 <p>
     <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
     <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
-    <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white">
     <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
     <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black">
     <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
     <img src="https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 </p>
 
 ### ☁️ Cloud
 <p>
     <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white">
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
-    <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white">
+    <!-- <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"> -->
     <img src="https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white">
-    <img src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white">
-    <img src="https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white">
+    <!-- <img src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white"> -->
     <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-    <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white">
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
 </p>
 
 ### ⚡️ Databases
 <p>
-    <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white">
     <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white">
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
@@ -70,7 +58,6 @@ Feel free to reach out at @Rade0nFighter if you'd like to collaborate or chat ab
     <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
     <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">
     <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
 ### 📱 Mobile Frameworks
@@ -108,33 +95,29 @@ Feel free to reach out at @Rade0nFighter if you'd like to collaborate or chat ab
 
 ## Favourite Projects
 
+A shout out to some projects which aim to make the world a better place for their users.
 <table>
   <tr>
-    <td align="center" width="300" height="200">
-      <img height="192" src="https://avatars.githubusercontent.com/u/13844975?s=200&v=4"  alt="Home Assistant"/>
+    <td align="center" width="100" height="200">
+      <img height="96" src="https://avatars.githubusercontent.com/u/13844975?s=200&v=4"  alt="Home Assistant"/>
       <br>
-      <strong>Home Assistant</strong>
+      <strong>Homeassistant</strong>
       <br>
-      Open source home automation. 
-      <br>
-      <a href="https://github.com/home-assistant">View on Github</a>
+      <a href="https://github.com/home-assistant">Github</a>
     </td>
-    <td align="center" width="300" height="200">
-      <img height="192"  src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4"  alt="Hugging Face"/>
+    <td align="center" width="100" height="200">
+      <img height="96"  src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="Hugging Face" style="background:white;"/>
       <br>
       <strong>Hugging Face</strong>
       <br>
-      The AI community building the future.
-      <br>
-      <a href="https://github.com/huggingface">View on GitHub</a>
+      <a href="https://github.com/huggingface">GitHub</a>
     </td>
-    <td align="center" width="300" height="200">
-      <img src="https://avatars.githubusercontent.com/u/19211038?s=200&v=4" alt="Nextcloud"/>
+    <td align="center" width="100" height="200">
+      <img height="96" src="https://avatars.githubusercontent.com/u/19211038?s=200&v=4" alt="Nextcloud"/>
       <br>
       <strong>Nextcloud</strong>
       <br>
-      A safe home for all your data
-      <a href="https://github.com/nextcloud">View on GitHub</a>
+      <a href="https://github.com/nextcloud">GitHub</a>
     </td>
   </tr>
 </table>
