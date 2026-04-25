@@ -5,7 +5,7 @@ CREDITS/SOURCES
 * https://www.terminalgif.com/
 
  -->
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:030442,50:b845f4,100:030442&height=300&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&reversal=false&desc=Artificial%20Intelligence%20•%20Cyber%20Security•%20Web%20Applications&descSize=20&descAlignY=55)](https://github.com/Rade0nFighter)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:030442,50:b845f4,100:030442&height=300&section=header&text=My%20Profile&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&reversal=false&desc=Artificial%20Intelligence%20•%20Cyber%20Security•%20Web%20Applications&descSize=20&descAlignY=55)](https://github.com/Rade0nFighter)
 ## <img src="./Iq.gif" width="28" align="top"> About Me
 
 Hi there! I'm a seasoned technologist specialising in **Artificial Intelligence**, **Cyber Security**, and **Enterprise Web Applications**. My work focuses on AI-powered user experiences, application integrations, and hardening infrastructure to keep systems secure.
