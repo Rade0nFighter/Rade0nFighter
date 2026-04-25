@@ -1,30 +1,26 @@
-# 🚀 Rade0nFighter
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6e45e2,50:88d3ce,100:6e45e2&height=300&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20•%20Cyber%20Security•%20Web%20Applications&descSize=20&descAlignY=55)](https://github.com/Rade0nFighter)
+<!-- <p style="text-align:centre"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7C60D1&center=true&vCenter=true&multiline=false&repeat=true&width=360&lines=LLM+and+ML+applications;Enterprise+User+Experience;Infrastructure+hardening" alt="Typing SVG" />
+</p> -->
+
+# Rade0nFighter
+
+
+## About Me 
+
+Hi there! I'm a passionate technologist specializing in Artificial Intelligence and Cyber Security. My work focuses on building LLM and ML applications, enhancing enterprise user experiences, and hardening infrastructure to keep systems secure and efficient.
+
+Currently, I'm diving deep into LLM Resource Augmentation projects. With a diverse tech stack spanning AI tools like ChatGPT, Claude, and PyTorch, cloud platforms from AWS to Azure, and programming languages including Python, TypeScript, and Rust, I enjoy tackling complex challenges across the full stack.
+
+Feel free to reach out at @Rade0nFighter if you'd like to collaborate or chat about AI, security, or anything tech-related.
+
+
+
+
+## Current Tech
+
 <p>
     <img style="border-radius: 15px" src="https://github.com/Rade0nFighter/Rade0nFighter/blob/main/terminal.gif?raw=true">
 </p>
-
-## About Me
-<!--
-**Rade0nFighter/Rade0nFighter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on ... LLM Resource Augmentation
-- 🌱 I’m currently learning ... SwiftUI
-- 📫 How to reach me: ... @Rade0nFighter
-- ⚡ Fun fact: ... Siamese cats are white with black ears and socks, but when cold turn black all over!
-
-
-## Favourite Tech
 
 ### 🤖 Artificial Intelligence
 <p>
@@ -51,7 +47,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
 </p>
 
-### ⚡️ Database
+### ⚡️ Databases
 <p>
     <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white">
     <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white">
@@ -109,3 +105,36 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
     <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white">
 </p>
+
+## Favourite Projects
+
+<table>
+  <tr>
+    <td align="center" width="300" height="200">
+      <img height="192" src="https://avatars.githubusercontent.com/u/13844975?s=200&v=4"  alt="Home Assistant"/>
+      <br>
+      <strong>Home Assistant</strong>
+      <br>
+      Open source home automation. 
+      <br>
+      <a href="https://github.com/home-assistant">View on Github</a>
+    </td>
+    <td align="center" width="300" height="200">
+      <img height="192"  src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4"  alt="Hugging Face"/>
+      <br>
+      <strong>Hugging Face</strong>
+      <br>
+      The AI community building the future.
+      <br>
+      <a href="https://github.com/huggingface">View on GitHub</a>
+    </td>
+    <td align="center" width="300" height="200">
+      <img src="https://avatars.githubusercontent.com/u/19211038?s=200&v=4" alt="Nextcloud"/>
+      <br>
+      <strong>Nextcloud</strong>
+      <br>
+      A safe home for all your data
+      <a href="https://github.com/nextcloud">View on GitHub</a>
+    </td>
+  </tr>
+</table>
