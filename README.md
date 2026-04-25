@@ -1,6 +1,6 @@
 # 🚀 Rade0nFighter
 <p>
-    <img src="https://github.com/Rade0nFighter/Rade0nFighter/blob/main/terminal.gif?raw=true">
+    <img style="border-radius: 15px" src="https://github.com/Rade0nFighter/Rade0nFighter/blob/main/terminal.gif?raw=true">
 </p>
 
 ## About Me
