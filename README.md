@@ -1,5 +1,4 @@
 # 🚀 Rade0nFighter
-
 <p>
     <img src="https://github.com/Rade0nFighter/Rade0nFighter/blob/main/terminal.gif?raw=true">
 </p>
@@ -23,6 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... SwiftUI
 - 📫 How to reach me: ... @Rade0nFighter
 - ⚡ Fun fact: ... Siamese cats are white with black ears and socks, but when cold turn black all over!
+
 
 ## Favourite Tech
 
