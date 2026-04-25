@@ -6,11 +6,11 @@ CREDITS/SOURCES
 
  -->
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:030442,50:b845f4,100:030442&height=300&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&reversal=false&desc=Artificial%20Intelligence%20•%20Cyber%20Security•%20Web%20Applications&descSize=20&descAlignY=55)](https://github.com/Rade0nFighter)
-## <img src="./Iq.gif" width="28" align="top"> About Me<
+## <img src="./Iq.gif" width="28" align="top"> About Me
 
-Hi there! I'm a experienced technologist specialising in **Artificial Intelligence**, **Cyber Security**, and **Enterpirse Applications**. My work focuses on AI-powered user experiences, web application integrations, and hardening infrastructure to keep systems secure.
+Hi there! I'm a seasoned technologist specialising in **Artificial Intelligence**, **Cyber Security**, and **Enterpirse Web Applications**. My work focuses on AI-powered user experiences, application integrations, and hardening infrastructure to keep systems secure.
 
-Currently, I'm diving deep into LLM Resource Augmentation projects. With a diverse tech stack spanning AI tools like ChatGPT, Gemma, and PyTorch, cloud platforms from AWS to Azure, and programming languages including Python, Rust, and PHP, I thrive when I'm architecting applications that re-define user experiences.
+Currently, I'm diving deep into LLM Resource Augmentation projects. With a diverse tech stack spanning AI tools like ChatGPT, Gemma, and PyTorch, cloud platforms from AWS to Azure, and programming languages including Python, Rust, and PHP, I thrive when I'm architecting applications that **re-define user experiences**.
 
 ## <img src="./QuestionHub.gif" width="28" align="top"> Current Tech
 
@@ -129,3 +129,5 @@ Currently, I'm diving deep into LLM Resource Augmentation projects. With a diver
 [![Home Assistant](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fhome-assistant&subtitle=%2FHome+Assistant&size=square&rounded=0)](https://github.com/home-assistant) 
 [![Hugging Face](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fhuggingface%2Fhome-assistant&subtitle=%2FHugging+Face&size=square&rounded=0)](https://github.com/huggingface) 
 [![Nextcloud](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fnextcloud%2Fhome-assistant&subtitle=%2FNextcloud&size=square&rounded=0)](https://github.com/nextcloud) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=home-assistant&repo=frontend&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
