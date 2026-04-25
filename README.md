@@ -1,5 +1,9 @@
 # 🚀 Rade0nFighter
 
+<p>
+    <img src="https://github.com/Rade0nFighter/Rade0nFighter/blob/main/terminal.gif?raw=true">
+</p>
+
 ## About Me
 <!--
 **Rade0nFighter/Rade0nFighter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
