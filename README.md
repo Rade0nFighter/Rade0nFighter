@@ -130,4 +130,4 @@ Currently, I'm diving deep into LLM Resource Augmentation projects. With a diver
 [![Hugging Face](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fhuggingface%2Fhome-assistant&subtitle=%2FHugging+Face&size=square&rounded=0)](https://github.com/huggingface) 
 [![Nextcloud](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fnextcloud%2Fhome-assistant&subtitle=%2FNextcloud&size=square&rounded=0)](https://github.com/nextcloud) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=home-assistant&repo=frontend&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=home-assistant&repo=frontend&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats) -->
