@@ -1,7 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6e45e2,50:88d3ce,100:6e45e2&height=300&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20•%20Cyber%20Security•%20Web%20Applications&descSize=20&descAlignY=55)](https://github.com/Rade0nFighter)
-<!-- <p style="text-align:centre"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7C60D1&center=true&vCenter=true&multiline=false&repeat=true&width=360&lines=LLM+and+ML+applications;Enterprise+User+Experience;Infrastructure+hardening" alt="Typing SVG" />
-</p> -->
-
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:030442,50:b845f4,100:030442&height=300&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&reversal=false&desc=Artificial%20Intelligence%20•%20Cyber%20Security•%20Web%20Applications&descSize=20&descAlignY=55)](https://github.com/Rade0nFighter)
 ## About Me 
 
 Hi there! I'm a passionate technologist specializing in Artificial Intelligence and Cyber Security. My work focuses on AI-powered user experiences, enterprise web applications, and hardening infrastructure to keep systems secure and efficient.
