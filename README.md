@@ -1,11 +1,11 @@
-<!-
+<!--
 CREDITS/SOURCES
 
 * https://animatedicons.co/icons/minimalistic?type=free
 * https://www.terminalgif.com/
 
  -->
- 
+
 [![Header](./solar/header-shed.png)](https://github.com/Rade0nFighter)
 
  <div align="center">
