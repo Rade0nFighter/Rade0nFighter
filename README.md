@@ -47,8 +47,8 @@ CREDITS/SOURCES
 
 - Everything apple
 
-## Tool Shed
-<img style="border-radius: 150px"  width="150" src="./solar/toolbox.png?raw=true">
+<!-- ## Tool Shed -->
+<img style="border-radius: 150px"  width="320" src="./solar/toolbox.png?raw=true">
 <details open>
     <summary>
         <strong>Artificial Intelligence</strong>
