@@ -9,7 +9,7 @@ CREDITS/SOURCES
 [![Header](./solar/header-shed.png)](https://github.com/Rade0nFighter)
 
  <div align="center">
-<img style="border-radius: 15px" src="./solar/terminal.gif?raw=true">
+<!-- <img style="border-radius: 15px" src="./solar/terminal.gif?raw=true"> -->
 
 
 
@@ -28,7 +28,7 @@ Move moving parts = more fututure problems.
 
 <br>
 
-## Current projects:
+## Current Projects
 <img width="320" src="./solar/toolbox.png?raw=true">
 <br><br>
 
@@ -40,7 +40,7 @@ Maintaining a small fleet of home servers that are more like pets to me at this 
 
 <br><br>
 
-## Tool shed
+## Tool Shed
 <img width="320" src="./solar/shed.png?raw=true">
 <br><br>
 
@@ -158,17 +158,17 @@ Maintaining a small fleet of home servers that are more like pets to me at this 
 
 <br>
 
+💾 Backups of backups
+
 🤖 Local AI
 
-🍎 macOS utilities
+🍎 Custom macOS utilities
 
-📦 Home infrastructure
-
-💾 Backups of backups
+📦 Homelab
 
 <br><br>
 
-## Worthwhile recommendations
+## Worthwhile Shout Outs
 <img width="320" src="./solar/notes.png?raw=true">
 <br><br>
 
