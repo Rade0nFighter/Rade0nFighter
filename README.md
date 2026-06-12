@@ -156,7 +156,7 @@ Maintaining a small fleet of home servers that are more like pets to me at this 
 ## Workbench
 <img width="480" src="./solar/workbench.png?raw=true"> 
 
-<br>
+<br><br>
 
 💾 Backups of backups
 
@@ -168,7 +168,7 @@ Maintaining a small fleet of home servers that are more like pets to me at this 
 
 <br><br>
 
-## Worthwhile Shout Outs
+## Worth Exploring
 <img width="320" src="./solar/notes.png?raw=true">
 <br><br>
 
