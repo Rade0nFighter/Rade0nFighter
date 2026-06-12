@@ -6,15 +6,15 @@ CREDITS/SOURCES
 
  -->
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:030442,50:b845f4,100:030442&height=300&section=header&text=My%20Profile&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&reversal=false&desc=Artificial%20Intelligence%20•%20Cyber%20Security•%20Web%20Applications&descSize=20&descAlignY=55)](https://github.com/Rade0nFighter)
-## <img src="./Iq.gif" width="28" align="top"> About Me
+## <img src="./corporate/icons/Iq.gif" width="28" align="top"> About Me
 
 Hi there! I'm a seasoned technologist specialising in **Artificial Intelligence**, **Cyber Security**, and **Enterprise Web Applications**. My work focuses on AI-powered user experiences, application integrations, and hardening infrastructure to keep systems secure.
 
 Currently, I'm diving deep into LLM Resource Augmentation projects. With a diverse tech stack spanning AI tools like ChatGPT, Gemma, and PyTorch, cloud platforms from AWS to Azure, and programming languages including Python, Rust, and PHP, I thrive when I'm architecting applications that **re-define user experiences**.
 
-## <img src="./QuestionHub.gif" width="28" align="top"> Current Tech
+## <img src="./corporate/icons/QuestionHub.gif" width="28" align="top"> Current Tech
 
-<img style="border-radius: 15px" src="./terminal.gif?raw=true">
+<img style="border-radius: 15px" src="./corporate/terminal.gif?raw=true">
 
 <details open>
     <summary>
@@ -124,7 +124,7 @@ Currently, I'm diving deep into LLM Resource Augmentation projects. With a diver
     </p>
 </details>
 
-## <img src="./Blocks.gif" width="28" align="top"> Favourite Projects
+## <img src="./corporate/icons/Blocks.gif" width="28" align="top"> Favourite Projects
 [![Apollo 11](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fchrislgarry%2FApollo-11&subtitle=%2FApollo+11&size=square&rounded=0)](https://github.com/chrislgarry/Apollo-11) 
 [![Home Assistant](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fhome-assistant&subtitle=%2FHome+Assistant&size=square&rounded=0)](https://github.com/home-assistant) 
 [![Hugging Face](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fhuggingface%2Fhome-assistant&subtitle=%2FHugging+Face&size=square&rounded=0)](https://github.com/huggingface) 
