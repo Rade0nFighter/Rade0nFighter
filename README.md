@@ -5,6 +5,7 @@ CREDITS/SOURCES
 * https://www.terminalgif.com/
 
  -->
+ 
 [![Header](./solar/header-shed.png)](https://github.com/Rade0nFighter)
 
  <div align="center">
