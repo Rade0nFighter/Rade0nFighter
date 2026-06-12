@@ -1,4 +1,4 @@
-<!-- 
+<!-
 CREDITS/SOURCES
 
 * https://animatedicons.co/icons/minimalistic?type=free
@@ -6,49 +6,43 @@ CREDITS/SOURCES
 
  -->
 [![Header](./solar/header-shed.png)](https://github.com/Rade0nFighter)
-## Current projects:
 
-- Convincing Docker containers to behave.
-
-- Teaching local LLMs new tricks.
-
-- Maintaining a small fleet of home servers that are more like pets to me at this point.
-
+ <div align="center">
 <img style="border-radius: 15px" src="./solar/terminal.gif?raw=true">
 
 
-## Workbench
 
-- 🌱 Terraform
-
-- 🐳 Docker
-
-- 🤖 Local AI
-
-- 🍎 macOS utilities
-
-- 📦 Home infrastructure
-
-- 💾 Backups of backups
+<br><br>
 
 ## Belief System
 
-- If it isn't automated, it's a future problem.
+<img width="320" src="./solar/scarecrow.png?raw=true">
+<br><br>
 
-- Move moving parts = more fututure problems
+If it isn't automated, it's a future problem.
 
-- The answer is usually a shell script.
+Move moving parts = more fututure problems.
 
-## Recent obsessions
+"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."
 
-- AI agents
+<br>
 
-- Home servers
+## Current projects:
+<img width="320" src="./solar/toolbox.png?raw=true">
+<br><br>
 
-- Everything apple
+Convincing Docker containers to behave.
 
-<!-- ## Tool Shed -->
-<img style="border-radius: 150px"  width="320" src="./solar/toolbox.png?raw=true">
+Teaching local LLMs new tricks.
+
+Maintaining a small fleet of home servers that are more like pets to me at this point.
+
+<br><br>
+
+## Tool shed
+<img width="320" src="./solar/shed.png?raw=true">
+<br><br>
+
 <details open>
     <summary>
         <strong>Artificial Intelligence</strong>
@@ -156,7 +150,27 @@ CREDITS/SOURCES
     </p>
 </details>
 
-## <img src="./Blocks.gif" width="28" align="top"> Favourite Projects
+<br><br>
+
+## Workbench
+<img width="480" src="./solar/workbench.png?raw=true"> 
+
+<br>
+
+🤖 Local AI
+
+🍎 macOS utilities
+
+📦 Home infrastructure
+
+💾 Backups of backups
+
+<br><br>
+
+## Worthwhile recommendations
+<img width="320" src="./solar/notes.png?raw=true">
+<br><br>
+
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chrislgarry&repo=Apollo-11&theme=gruvbox&hide_description=true)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=home-assistant&repo=home-assistant&theme=gruvbox)
@@ -164,3 +178,6 @@ CREDITS/SOURCES
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nextcloud&repo=server&theme=gruvbox)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huggingface&repo=transformers&theme=gruvbox)
+
+
+</div>
