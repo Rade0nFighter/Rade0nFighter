@@ -5,21 +5,10 @@ CREDITS/SOURCES
 * https://www.terminalgif.com/
 
  -->
-[![Header](./header-shed.png)](https://github.com/Rade0nFighter)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:030442,50:b845f4,100:030442&height=300&section=header&text=My%20Profile&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&reversal=false&desc=Artificial%20Intelligence%20•%20Cyber%20Security•%20Web%20Applications&descSize=20&descAlignY=55)](https://github.com/Rade0nFighter)
 ## <img src="./Iq.gif" width="28" align="top"> About Me
 
 Hi there! I'm a seasoned technologist specialising in **Artificial Intelligence**, **Cyber Security**, and **Enterprise Web Applications**. My work focuses on AI-powered user experiences, application integrations, and hardening infrastructure to keep systems secure.
-
-| Okay | Bad | Meh |
-|:---:|:---:|:---:|
-| ${\color{white}█}$ 111 ${\color{white}█}$ | ${\color{red}█}$ 222 ${\color{red}█}$ | ${\color{medyellow}█}$ 333 ${\color{medyellow}█}$ |
-| ${\color{white}█}$ 112 ${\color{white}█}$ | ${\color{red}█}$ 223 ${\color{red}█}$ | ${\color{medyellow}█}$ 334 ${\color{medyellow}█}$ |
-| ${\color{white}█}$ 11112 ${\color{white}█}$ | ${\color{Red}█}$ 22223 ${\color{Red}█}$ | ${\color{Orange}█}$ 33334 ${\color{Orange}█}$ |
-| $\color{white}█$ 113 $\color{white}█$ | $\color{red}█$ 224 $\color{red}█$ | $\color{medyellow}█$ 335 $\color{medyellow}█$ |
-\textcolor{red}{This text is red}
-\textcolor{blue}{This text is blue}
-<span style="color:#000">Red text</span>
-\color{red} Hello
 
 Currently, I'm diving deep into LLM Resource Augmentation projects. With a diverse tech stack spanning AI tools like ChatGPT, Gemma, and PyTorch, cloud platforms from AWS to Azure, and programming languages including Python, Rust, and PHP, I thrive when I'm architecting applications that **re-define user experiences**.
 
