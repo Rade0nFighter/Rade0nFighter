@@ -9,7 +9,7 @@ I like making useful software, quiet automation, and recycling hardware.
 - [Widget Foundry](https://github.com/Rade0nFighter/widget-foundry) — thoughtful utilities for macOS, made with care.
 - **Homelab and local AI** — self-hosted services, automation, and experiments with local models.
 
-## Tools on the workbench right now
+## Current tech
 
 ![Swift · macOS](https://img.shields.io/badge/Swift-macOS-557EED?style=flat-square&logo=swift&logoColor=white)
 ![Docker · homelab](https://img.shields.io/badge/Docker-homelab-557EED?style=flat-square&logo=docker&logoColor=white)
