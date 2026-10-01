@@ -16,10 +16,6 @@ I like making useful software, quiet automation, and recycling hardware.
 ![Python · automation](https://img.shields.io/badge/Python-automation-557EED?style=flat-square&logo=python&logoColor=white)
 ![Linux · self-hosted](https://img.shields.io/badge/Linux-self--hosted-557EED?style=flat-square&logo=linux&logoColor=white)
 
-## A few principles
-
-> If it isn't automated, it's a future problem.
-
 ## Links
 
 [Widget Foundry](https://github.com/Rade0nFighter/widget-foundry)
